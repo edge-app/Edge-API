@@ -4,6 +4,7 @@ The Edge API allows business users to collect data from their beacon.
 # Getting Started
 Step 1:
 If you haven't already, please sign up for an account through the Edge website: http://edge-app-client.epizy.com/sign-up.
+
 ![image](https://user-images.githubusercontent.com/86634813/123722156-9edf3e00-d83c-11eb-935d-7537fb1ce7d4.png)
 
 Step 2:
