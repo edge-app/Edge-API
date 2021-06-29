@@ -15,11 +15,11 @@ Once your business account has been created, you're ready to start collecting da
 
 `username`: The username for your business account.
 
-`password`: The password to your business account.
+`api_key`: The API key linked to your business account. Login to your account on http://edge-app-client.epizy.com/ to access your API key.
 
 **Returns:** A list of dictionaries containing data for each user. For more information about the type of data you can collect, please see the "User Data" section.
 
-![image](https://user-images.githubusercontent.com/86634813/123723359-16ae6800-d83f-11eb-8ba9-502dc7a61ff3.png)
+![image](https://user-images.githubusercontent.com/86634813/123834010-ce815b00-d8bb-11eb-8980-1b09a96a4ed9.png)
 (Making a request for data in Python)
 
 # User Data
