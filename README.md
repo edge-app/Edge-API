@@ -8,7 +8,7 @@ If you haven't already, please sign up for an account through the Edge website: 
 ![image](https://user-images.githubusercontent.com/86634813/123722156-9edf3e00-d83c-11eb-935d-7537fb1ce7d4.png)
 
 **Step 2**:
-Once your business account is created, you're ready to start collecting data. Data can be collected through the following HTTP request:
+Once your business account has been created, you're ready to start collecting data. Data can be collected through the following HTTP request:
 `http://165.232.143.117:8000/api/get-users-nearby/`
 
 Parameters:
