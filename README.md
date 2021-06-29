@@ -31,5 +31,5 @@ Example: "Braxton"
 `last_name`: A user's last name.
 Example: "Garcia",
 
-`location`: A user's GPS location in the format `longitude, latitude`.
+`location`: A user's GPS location in the format `latitude, longitude`.
 Example: "39.732598848245885, -104.98701590248902"
