@@ -12,11 +12,15 @@ Once your business account is created, you're ready to start collecting data. Da
 
 # User Data
 Users may have any of the following fields. If a data-point is unavailable for a given user, its value will be undefined, but still exist in the user's dictionary (`None`, `null`, etc.).
+
 `first_name`: A user's first name.
-  Examples: "Braxton", "Eisa", "Sonnie"
+
+Examples: "Braxton", "Eisa", "Sonnie"
 
 `last_name`: A user's last name.
-  Examples: "Valencia", "Weber", "Garcia",
+
+Examples: "Valencia", "Weber", "Garcia",
 
 `location`: A user's GPS location in the format `longitude, latitude`.
-  Example: "39.732598848245885, -104.98701590248902"
+
+Example: "39.732598848245885, -104.98701590248902"
